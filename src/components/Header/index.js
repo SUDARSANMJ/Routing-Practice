@@ -1,5 +1,5 @@
 // Write your JS code here
-import {link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 
 import './index.css'
 
